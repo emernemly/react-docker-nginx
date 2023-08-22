@@ -1,0 +1,11 @@
+.home {
+  background-color: aqua;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+
+  font-size: 100px;
+  color: coral;
+}
